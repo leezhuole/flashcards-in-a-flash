@@ -1,0 +1,31 @@
+# General Libearies/Modules 
+argparse            # For command-line arguments 
+glob                # For file operations
+os                  # For file operations
+json                # For JSON files
+time                # For timing utilities
+logging             # For logging utilities
+random              # For random number generation
+re                  # Regular Expressions
+itertools           # For efficient looping
+string              # For string manipulation
+pyyaml              # For YAML files
+h5py                # For HDF5 (configuration) files
+
+# Natural Language Processing
+nltk                # Natural Language Toolkit
+spacy               # Industrial-strength NLP
+sentencepiece       # For tokenization
+transformers        # For BERT, GPT-2, etc. from HuggingFace
+
+# Machine Learning Libraries
+pandas              
+numpy               
+torch               
+pytorch_lightning
+sklearn             
+tensorflow-gpu
+
+# Visualization Libraries
+termcolor
+textwrap
